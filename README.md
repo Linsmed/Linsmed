@@ -15,5 +15,5 @@ I'm a DevOps Engineer. I'm passionate about sharing knowledge, documentation, we
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ejibodeibraheem&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bejibodeibraheem&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Linsmed&show_icons=true&include_all_commits=true&hide_border=true" alt="Linsmed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linsmed&langs_count=8&layout=compact&hide_border=true" alt="Linsmed's GitHub stats" /> |
 | ------------- | ------------- |
